@@ -1,0 +1,8 @@
+/.vscode/
+/__pycache__/
+/requirements/
+/private/
+*.bat
+*.command
+/myenv/
+*.md
